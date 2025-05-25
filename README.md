@@ -1,4 +1,4 @@
-# createur_environnement
+# Createur d'environnement
 ---
 
 ## Installation (Windows)
